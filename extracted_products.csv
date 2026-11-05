@@ -1,0 +1,42 @@
+company_name,stock_name,filing_time,new_product,product_description,description_length
+MICROSOFT CORP,MSFT,2026-11-04,5.000% Notes due 2029,5.000% Notes due 2029,21
+MICROSOFT CORP,MSFT,2026-11-04,5.200% Notes due 2031,5.200% Notes due 2031,21
+MICROSOFT CORP,MSFT,2026-11-04,5.350% Notes due 2033,5.350% Notes due 2033,21
+MICROSOFT CORP,MSFT,2026-11-04,5.550% Notes due 2036,5.550% Notes due 2036,21
+MICROSOFT CORP,MSFT,2026-11-04,6.150% Notes due 2046,6.150% Notes due 2046,21
+MICROSOFT CORP,MSFT,2026-11-04,6.250% Notes due 2056,6.250% Notes due 2056,21
+MICROSOFT CORP,MSFT,2026-11-04,6.350% Notes due 2066,6.350% Notes due 2066,21
+AMAZON COM INC,AMZN,2026-10-29,2.800% Notes due 2028,2.800% notes due 2028,21
+AMAZON COM INC,AMZN,2026-10-29,3.100% Notes due 2030,3.100% notes due 2030,21
+AMAZON COM INC,AMZN,2026-10-29,3.350% Notes due 2032,3.350% notes due 2032,21
+AMAZON COM INC,AMZN,2026-10-29,3.700% Notes due 2035,3.700% notes due 2035,21
+AMAZON COM INC,AMZN,2026-10-29,4.050% Notes due 2039,4.050% notes due 2039,21
+AMAZON COM INC,AMZN,2026-10-29,4.450% Notes due 2045,4.450% notes due 2045,21
+AMAZON COM INC,AMZN,2026-10-29,4.850% Notes due 2064,4.850% notes due 2064,21
+AMAZON COM INC,AMZN,2026-10-29,5.200% Notes due 2029,5.200% notes due 2029,21
+AMAZON COM INC,AMZN,2026-10-29,5.550% Notes due 2032,5.550% notes due 2032,21
+AMAZON COM INC,AMZN,2026-10-29,6.250% Notes due 2038,6.250% notes due 2038,21
+AMAZON COM INC,AMZN,2026-10-29,6.650% Notes due 2045,6.650% notes due 2045,21
+MICROSOFT CORP,MSFT,2026-10-28,3.125% Notes due 2028,Notes due 2028,14
+MICROSOFT CORP,MSFT,2026-10-28,2.625% Notes due 2033,Notes due 2033,14
+"Tesla, Inc.",TSLA,2026-10-21,Not specified,,0
+"Tesla, Inc.",TSLA,2026-10-02,Tesla's new battery technology,Improved battery efficiency and range,37
+ADVANCED MICRO DEVICES INC,AMD,2026-09-28,"World Labs Technologies, Inc. Merger","Acquisition of World Labs Technologies, Inc. for a total purchase price of approximately $8.2 billion",101
+AMAZON COM INC,AMZN,2026-09-14,2029 Notes,5.200% notes due 2029,21
+AMAZON COM INC,AMZN,2026-09-14,2032 Notes,5.550% notes due 2032,21
+AMAZON COM INC,AMZN,2026-09-14,2038 Notes,6.250% notes due 2038,21
+AMAZON COM INC,AMZN,2026-09-14,2045 Notes,6.650% notes due 2045,21
+AMAZON COM INC,AMZN,2026-09-09,2.800% Notes due 2028,2.800% Notes due 2028 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,3.100% Notes due 2030,3.100% Notes due 2030 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,3.350% Notes due 2032,3.350% Notes due 2032 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,3.700% Notes due 2035,3.700% Notes due 2035 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,4.050% Notes due 2039,4.050% Notes due 2039 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,4.450% Notes due 2045,4.450% Notes due 2045 — The Nasdaq Stock Market LLC,51
+AMAZON COM INC,AMZN,2026-09-09,4.850% Notes due 2064,4.850% Notes due 2064 — The Nasdaq Stock Market LLC,51
+ADOBE INC.,ADBE,2026-09-08,Adobe's Leadership Transition,Announcement of Anil Chakravarthy as President and Chief Executive Officer,74
+NVIDIA CORP,NVDA,2026-09-03,Hugging Face Platform,"Open-source models, datasets and applications",45
+MICROSOFT CORP,MSFT,2026-09-02,FY27 Segments and Investor Metrics,Presentation materials announcing a change in reportable segments and investor metrics,86
+NVIDIA CORP,NVDA,2026-08-26,Ampere Compute Accelerator,New AI compute accelerator,26
+NVIDIA CORP,NVDA,2026-08-26,NVIDIA Drive Platform 3.0,New autonomous vehicle platform,31
+NVIDIA CORP,NVDA,2026-08-26,NVIDIA Quadro RTX 8000,New professional graphics card,30
+ADVANCED MICRO DEVICES INC,AMD,2026-08-19,Ampere eXtreme Compute Platform,New platform for high-performance computing,43
