@@ -1,7 +1,18 @@
-company_name,stock_name,filing_time,new_product,product_description
-"Tesla, Inc.",TSLA,10/2/2026,Tesla's new battery technology,Improved battery efficiency and range
-NVIDIA CORP,NVDA,9/3/2026,Hugging Face Platform,"Open-source models, datasets and applications"
-NVIDIA CORP,NVDA,8/26/2026,Ampere Compute Accelerator,New AI compute accelerator
-NVIDIA CORP,NVDA,8/26/2026,NVIDIA Drive Platform 3.0,New autonomous vehicle platform
-NVIDIA CORP,NVDA,8/26/2026,NVIDIA Quadro RTX 8000,New professional graphics card
-ADVANCED MICRO DEVICES INC,AMD,8/19/2026,Ampere eXtreme Compute Platform,New platform for high-performance computing
+﻿company_name,stock_name,filing_time,new_product,product_description
+"Advanced Micro Devices, Inc.",AMD,2026-08-04,AMD Instinct MI400 Series GPU family,"AMD GPU family for large-scale AI training, inference, and high-performance computing."
+"Advanced Micro Devices, Inc.",AMD,2026-08-04,6th Gen AMD EPYC server CPUs,"Sixth-generation AMD server processors for AI, general-purpose computing, and enterprise workloads."
+"Advanced Micro Devices, Inc.",AMD,2026-08-04,AMD Helios rackscale solution,AMD rack-scale AI server solution designed for large-scale inference and cloud deployments.
+"Amazon.com, Inc.",AMZN,2026-07-30,Amazon Supply Chain Services,Amazon supply chain services offering designed to support business supply chain operations.
+Apple Inc.,AAPL,2025-10-30,iPhone 17,Apple iPhone 17 smartphone introduced in September 2025.
+Apple Inc.,AAPL,2025-10-30,AirPods Pro 3,Apple third-generation AirPods Pro wireless earbuds introduced in September 2025.
+"Tesla, Inc.",TSLA,2025-10-22,Model YL,"Tesla longer-wheelbase Model Y variant with six seats and three rows, launched in China."
+"Tesla, Inc.",TSLA,2025-10-22,Model Y Performance,Tesla high-performance Model Y electric SUV variant.
+"Tesla, Inc.",TSLA,2025-10-22,Model 3 Standard,Tesla lower-priced Model 3 electric sedan variant with over 300 miles of range.
+"Tesla, Inc.",TSLA,2025-10-22,Model Y Standard,Tesla lower-priced Model Y electric SUV variant with over 300 miles of range.
+"Amazon.com, Inc.",AMZN,2026-10-29,Strands harness,Amazon open-source harness for developing and operating AI agents.
+"Amazon.com, Inc.",AMZN,2026-07-30,AWS Lambda MicroVMs,AWS Lambda serverless compute offering using microVM-based execution.
+"Advanced Micro Devices, Inc.",AMD,2026-02-03,AMD EPYC Embedded 2005 Series processors,AMD embedded processors designed for industrial and edge computing applications.
+"Amazon.com, Inc.",AMZN,2026-04-29,Amazon Connect Decisions,Amazon decision-support solution for supply chain operations.
+"Advanced Micro Devices, Inc.",AMD,2026-11-03,AMD Instinct MI450 Series GPUs,AMD Instinct MI450 series GPUs designed for AI workloads.
+"Tesla, Inc.",TSLA,2026-07-22,Tesla Powerwall 3P,Tesla three-phase residential battery energy storage system.
+"Advanced Micro Devices, Inc.",AMD,2026-02-03,AMD FSR Redstone,AMD graphics technology suite for improved gaming image quality and performance.
